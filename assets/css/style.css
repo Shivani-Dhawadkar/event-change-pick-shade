@@ -1,0 +1,56 @@
+.all > div{
+    height: 300px;
+    border-radius: 150px;
+    border: 1px solid black;
+    padding-bottom: 20px;
+    box-shadow: gray 10px ;
+    
+   }
+   .red > div {
+       background-color: red;
+   }
+   .cherry> div {
+       background-color: #990f02;
+   }
+   .rose > div {
+       background-color: #e3242b;
+   }
+   .jam > div {
+       background-color: #60100b;
+   }
+   .merlot > div {
+       background-color: #541e1b;
+   }
+   .garnet > div {
+       background-color: #610c04;
+   }
+   .crimson > div {
+       background-color: #b90e0a;
+   }
+   .ruby > div {
+       background-color: #900603;
+   }
+   .scarlet > div {
+       background-color: #900d09;
+   }
+   .wine > div {
+       background-color: #4e0707;
+   }
+   .brick > div {
+       background-color: #7e2811;
+   }
+   .apple > div {
+       background-color: #a91b0d;
+   }
+   .mahogany > div {
+       background-color: #420c09;
+   }
+   .blood > div {
+       background-color: #710c04;
+   }
+   .sangria > div {
+       background-color: #5e1916;
+   }
+   .berry > div {
+       background-color: #7a1712;
+   }
